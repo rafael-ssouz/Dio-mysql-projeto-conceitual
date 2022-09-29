@@ -1,2 +1,3 @@
-# Dio-mysql-projeto-conceitual
-Projeto conceitual de Banco de dados E-commerce
+# Banco de dados - Projeto conceitual de um E-commerce
+Repositório criado para refinamento do modelo conceitual de um E-commerce.
+
